@@ -9,3 +9,11 @@ Roll:2020
 
 Branch:  ECE
 
+Qualifications:
+
+Senior Secondary HG
+
+GDG
+
+GDSC
+
